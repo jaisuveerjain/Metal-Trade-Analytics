@@ -175,5 +175,7 @@ AND ABS(b.Thickness_mm - s.Thickness_mm) <= 0.1;
 ### **How to Access the Tables in BigQuery**
 All the Table Generation Queries are saved under the Saved Queries Section and required permission is given. 
 The Project Can be searched with ID below for Accessing all the BigQueries
-Project ID: vanillasteel-452308
+
+### **🔹 Project ID: vanillasteel-452308**
+
 
