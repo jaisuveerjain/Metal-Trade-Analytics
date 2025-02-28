@@ -1,5 +1,6 @@
 
-# **Task 3: Buyer Preference Matching **
+# **Task 3: Buyer Preference Matching**
+
 
 ## **Overview**
 In this task, I have matched **supplier materials** to **buyer preferences** based on **Grade, Finish, and Thickness**. The goal was to generate recommendations that best fit buyer requirements using SQL techniques
