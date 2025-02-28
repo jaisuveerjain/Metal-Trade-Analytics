@@ -11,17 +11,17 @@ Check each Task Markdown files for better explanation on each of them.
 
 
 ### **🔹 Task 1: Data Cleaning & Preparation**
-📍 **Location:** [`task_1/`](task_1/)  
+📍 **Location:** [`task_1/`](task_1/Task1.md)  
 
 ---
 
 ### **🔹 Task 2: Analysis & Insights**
-📍 **Location:** [`task_2/`](task_2/)  
+📍 **Location:** [`task_2/`](task_2/Task2.md)  
 
 ---
 
 ### **🔹 Task 3: Buyer Preference Matching**
-📍 **Location:** [`task_3/`](task_3/)  
+📍 **Location:** [`task_3/`](task_3/Task3.md)  
 
 ---
 
