@@ -1,0 +1,51 @@
+Quality_Choice,Grade,Finish,Thickness_mm,Width_mm,Description,Weight_kg,RP02,RM,Quantity,AG,AI
+3rd,C200S,gebeizt und geglüht,2.77,1100,Längs- oder Querisse,13983,333.6,606.2,0,16.11,0.0054
+3rd,C300S,ungebeizt,2.65,1075,Längs- oder Querisse,13047,717.7,0.0,0,16.11,0.0046
+3rd,C100S,gebeizt und geglüht,2.2,1100,Kantenfehler - FS-Kantenrisse,14155,368.9,0.0,11,0.0,0.0061
+2nd,C100S,gebeizt,2.86,1100,Längs- oder Querisse,11381,368.9,601.7,23,0.0,0.0062
+1st,C300S,ungebeizt,2.88,1050,Sollmasse (Gewicht) unterschritten,10072,0.0,1213.0,23,0.0,0.0041
+2nd,C200S,gebeizt,2.51,1000,Längs- oder Querisse,12863,0.0,606.2,0,0.0,0.0059
+1st,C100S,gebeizt,2.69,1150,Sollmasse (Gewicht) unterschritten,8936,0.0,606.2,11,15.05,0.0066
+2nd,C300S,gebeizt und geglüht,2.98,1000,Sollmasse (Gewicht) unterschritten,9810,0.0,601.7,23,15.05,0.0042
+3rd,C200S,gebeizt,2.03,1050,Längs- oder Querisse,5491,368.9,601.7,23,0.0,0.0064
+3rd,C300S,gebeizt,2.54,1050,Längs- oder Querisse,11415,368.9,606.2,0,15.05,0.0067
+2nd,C100S,gebeizt und geglüht,2.31,1050,Kantenfehler - FS-Kantenrisse,14758,333.6,0.0,0,0.0,0.0061
+1st,C100S,ungebeizt,2.55,1050,Sollmasse (Gewicht) unterschritten,13400,717.7,606.2,0,15.05,0.0047
+3rd,C100S,gebeizt und geglüht,2.52,1100,Längs- oder Querisse,12787,368.9,0.0,25,16.11,0.005
+2nd,C200S,ungebeizt,2.46,1000,Sollmasse (Gewicht) unterschritten,8391,368.9,601.7,23,0.0,0.0053
+3rd,C100S,gebeizt und geglüht,2.74,1100,Längs- oder Querisse,10409,0.0,601.7,11,6.858,0.0062
+2nd,C100S,gebeizt,2.27,1150,Sollmasse (Gewicht) unterschritten,5951,0.0,601.7,0,6.858,0.0061
+2nd,C300S,ungebeizt,2.08,1150,Kantenfehler - FS-Kantenrisse,8240,333.6,601.7,23,15.05,0.0068
+1st,C300S,gebeizt und geglüht,2.29,1050,Längs- oder Querisse,14139,368.9,606.2,23,16.11,0.0066
+3rd,C100S,ungebeizt,2.19,1050,Längs- oder Querisse,7304,333.6,1213.0,11,0.0,0.0064
+2nd,C100S,gebeizt und geglüht,2.14,1000,Kantenfehler - FS-Kantenrisse,13518,368.9,1213.0,23,16.11,0.0055
+1st,C100S,gebeizt,2.84,1150,Längs- oder Querisse,12010,717.7,1213.0,11,6.858,0.0068
+2nd,C200S,gebeizt und geglüht,2.88,1050,Sollmasse (Gewicht) unterschritten,6665,717.7,1213.0,0,16.11,0.0051
+1st,C100S,gebeizt und geglüht,2.51,1050,Längs- oder Querisse,14839,0.0,606.2,0,15.05,0.0041
+3rd,C200S,gebeizt,2.22,1050,Längs- oder Querisse,10959,368.9,606.2,23,0.0,0.0051
+2nd,C200S,ungebeizt,2.83,1100,Sollmasse (Gewicht) unterschritten,14688,333.6,606.2,0,16.11,0.0057
+3rd,C300S,gebeizt,2.32,1150,Längs- oder Querisse,5979,717.7,601.7,25,16.11,0.0065
+3rd,C100S,gebeizt und geglüht,2.48,1050,Kantenfehler - FS-Kantenrisse,10499,333.6,1213.0,11,15.05,0.0059
+2nd,C300S,gebeizt und geglüht,2.21,1100,Sollmasse (Gewicht) unterschritten,10723,368.9,1213.0,25,6.858,0.0042
+2nd,C100S,ungebeizt,2.75,1100,Längs- oder Querisse,10262,368.9,0.0,11,6.858,0.0049
+3rd,C200S,gebeizt,2.75,1075,Kantenfehler - FS-Kantenrisse,8118,0.0,601.7,0,0.0,0.0069
+3rd,C100S,ungebeizt,2.89,1075,Sollmasse (Gewicht) unterschritten,5011,0.0,606.2,11,0.0,0.0053
+1st,C100S,gebeizt und geglüht,2.32,1150,Sollmasse (Gewicht) unterschritten,8410,333.6,601.7,25,6.858,0.0048
+3rd,C300S,gebeizt,2.53,1100,Längs- oder Querisse,5124,0.0,601.7,25,15.05,0.0041
+2nd,C100S,gebeizt und geglüht,2.18,1075,Sollmasse (Gewicht) unterschritten,12071,368.9,1213.0,25,16.11,0.0054
+2nd,C100S,gebeizt,2.75,1000,Kantenfehler - FS-Kantenrisse,13321,368.9,606.2,11,16.11,0.0045
+2nd,C300S,ungebeizt,2.43,1000,Längs- oder Querisse,7968,717.7,1213.0,0,0.0,0.0047
+1st,C300S,gebeizt,2.82,1050,Kantenfehler - FS-Kantenrisse,12702,717.7,0.0,23,16.11,0.0054
+1st,C200S,gebeizt und geglüht,2.8,1050,Kantenfehler - FS-Kantenrisse,5915,717.7,601.7,0,15.05,0.0058
+1st,C100S,gebeizt,2.01,1050,Längs- oder Querisse,8047,333.6,601.7,23,16.11,0.0067
+2nd,C300S,ungebeizt,2.3,1000,Längs- oder Querisse,7772,0.0,0.0,25,0.0,0.0059
+3rd,C200S,ungebeizt,2.12,1075,Längs- oder Querisse,9995,368.9,0.0,11,15.05,0.007
+1st,C100S,gebeizt und geglüht,2.37,1075,Kantenfehler - FS-Kantenrisse,9774,368.9,606.2,11,16.11,0.0063
+2nd,C100S,gebeizt und geglüht,2.43,1150,Sollmasse (Gewicht) unterschritten,11360,368.9,606.2,23,16.11,0.0051
+3rd,C100S,ungebeizt,2.08,1100,Längs- oder Querisse,8261,333.6,1213.0,23,15.05,0.0041
+3rd,C100S,gebeizt und geglüht,2.75,1050,Kantenfehler - FS-Kantenrisse,9110,368.9,1213.0,23,16.11,0.0058
+2nd,C300S,ungebeizt,2.72,1150,Längs- oder Querisse,13667,0.0,606.2,11,0.0,0.0055
+3rd,C100S,gebeizt und geglüht,2.74,1000,Längs- oder Querisse,6947,717.7,606.2,23,6.858,0.0045
+3rd,C100S,gebeizt,2.48,1150,Sollmasse (Gewicht) unterschritten,8786,717.7,1213.0,0,0.0,0.0042
+1st,C300S,gebeizt,2.48,1150,Sollmasse (Gewicht) unterschritten,14311,368.9,1213.0,25,15.05,0.0046
+1st,C100S,gebeizt,2.79,1050,Sollmasse (Gewicht) unterschritten,8048,0.0,0.0,0,15.05,0.0052
