@@ -37,15 +37,11 @@ Links for the Dashboard : https://lookerstudio.google.com/reporting/126a5bcb-192
 
 ---
 
-## **Implementation in Looker Studio & BigQuery**
+## **Implementation in BigQuery**
 
-### **Looker Studio Dashboard**
 
 - **Data Source**: Connected BigQuery table `vanillasteel-452308.sale_deals.deals`
-- **Visualizations**:
-  - **Account Manager Performance Table & Bar Chart**
-  - **Buyer Revenue Table & Pie Chart**
-  - **Regional Sales Map & Monthly Trends Line Chart**
+
 
 ### **SQL Queries Used**
 
